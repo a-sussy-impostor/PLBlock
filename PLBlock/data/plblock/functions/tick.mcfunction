@@ -1,1 +1,1 @@
-execute as @e[type=item_display,tag=wasd.custom_block] at @s run function wasd.block:as_blocks
+execute as @e[type=item_display,tag=plblock.custom_block] at @s run function plblock:as_blocks
