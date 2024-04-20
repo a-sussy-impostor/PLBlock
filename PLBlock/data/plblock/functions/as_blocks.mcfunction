@@ -5,3 +5,5 @@ execute as @s[tag=plblock.epic_lucky_block] run function plblock:epic_lucky_bloc
 execute as @s[tag=plblock.luxury_lucky_block] run function plblock:luxury_lucky_block/luxury_lucky_block
 execute as @s[tag=plblock.cherish_lucky_block] run function plblock:cherish_lucky_block/cherish_lucky_block
 execute as @s[tag=plblock.quick_lucky_block] run function plblock:quick_lucky_block/quick_lucky_block
+execute as @s[tag=plblock.omega_lucky_block] run function plblock:quick_lucky_block/omega_lucky_block
+execute as @s[tag=plblock.trash_lucky_block] run function plblock:quick_lucky_block/trash_lucky_block
